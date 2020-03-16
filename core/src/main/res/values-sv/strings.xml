@@ -219,4 +219,6 @@
   <string name="no_results">Inga resultat</string>
   <string name="no_bookmarks">Inga bokmärken</string>
   <string name="no_history">Ingen historik</string>
+  <string name="delete_history">Radera historik?</string>
+  <string name="delete_bookmarks">Radera bokmärken?</string>
 </resources>
